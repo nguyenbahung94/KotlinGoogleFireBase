@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings">action_Setting</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="desc">desc</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+</resources>
